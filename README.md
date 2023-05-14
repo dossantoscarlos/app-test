@@ -9,3 +9,17 @@
     <li>Exportação dos dados da tela de listagem</li>
     <li>Posibilidade de mudar a quantidade de dados exibida</li>
 </ul>
+
+## Requerimento do ambiente
+
+<ul>
+    <li>PHP 8 </li>
+    <li>Composer</li>
+    <li>Mysql</li>
+    <li>Docker</li>
+</ul>
+
+<p>
+    Para usar o mesmo ambiente de desenvolvimento, faça uso do sail.
+    <code> php artisan sail:install</code>, nescessario ter o <b>docker</b> instalado.
+</p>
